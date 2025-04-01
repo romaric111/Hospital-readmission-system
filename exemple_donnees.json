@@ -1,0 +1,12 @@
+{
+    "time_in_hospital": 10,
+    "n_lab_procedures": 20,
+    "n_procedures": 30,
+    "n_medications": 40,
+    "A1Ctest_no": 1,
+    "A1Ctest_normal": 0,
+    "age_[50-60)": 0,
+    "age_[60-70)": 1,
+    "age_[70-80)": 0
+  }
+        
